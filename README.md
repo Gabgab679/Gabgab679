@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gabrielle</h1>
 <h3 align="center">An eager to learn fullstack dev 🤩</h3>
 
-- 🔭 I’m currently working on **my portfolio**
+- 🔭 I’m currently working on **my portfolio** [here](https://troopl.com/gabrielle)
 
 - 🌱 I’m currently learning **react**
 
