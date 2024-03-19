@@ -9,13 +9,13 @@
 
 - 🤝 I’m looking for help with **what more to learn in JS**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Gabgab679/KARMA](https://github.com/Gabgab679/KARMA)
+- 👨‍💻 All of my projects are available at [KARMA](https://github.com/Gabgab679/KARMA)
 
 - 💬 Ask me about **Le wagon**
 
 - 📫 How to reach me **gabrielle.simha@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/gabrielle-simha-23545092/](https://www.linkedin.com/in/gabrielle-simha-23545092/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/gabrielle-simha-23545092/)
 
 - ⚡ Fun fact **I love chatting, send me a message about your favorite game!**
 
