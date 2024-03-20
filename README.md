@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gabrielle.simha@gmail.com**
 
-- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/gabrielle-simha-23545092/)
+- 📄 Know about my experiences [LinkedIn](https://www.linkedin.com/in/gabrielle-simha/)
 
 - ⚡ Fun fact **I love chatting, send me a message about your favorite game!**
 
